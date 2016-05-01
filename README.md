@@ -7,6 +7,12 @@ Moka Icon Theme (the icon assets and sources) are licensed under a [Creative Com
 
 Any bundled software is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
 
+### About this fork
+
+This is a fork of the Moka Icon theme that contains custom icons for OpenSesame:
+
+- http://osdoc.cogsci.nl
+
 ###Getting the Source
 
 The original source for Moka Icon Theme can be found [here](https://github.com/moka-project/moka-icon-theme). You can clone the latest version from the git repository:
@@ -26,7 +32,7 @@ To render new icons from their source SVG files, run the following:
     ./render-bitmaps-hidpi.py
 
 If it's throwing an error, the script may not be executable, try:
-	
+
 	chmod +x render-bitmaps.py
 	chmod +x render-bitmaps-hidpi.py
 
