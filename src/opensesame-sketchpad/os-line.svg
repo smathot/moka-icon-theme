@@ -31,16 +31,16 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="423.51892"
-     inkscape:cy="169.59875"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="417.43295"
+     inkscape:cy="190.4372"
      inkscape:current-layer="layer7"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1855"
-     inkscape:window-height="1176"
+     inkscape:window-height="1056"
      inkscape:window-x="65"
      inkscape:window-y="24"
      width="400px"
@@ -423,7 +423,7 @@
         <dc:source />
         <cc:license
            rdf:resource="" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
@@ -516,71 +516,21 @@
          x="416"
          y="52"
          inkscape:label="32x32" />
-      <g
-         id="no-marker"
-         inkscape:label="#markers"
-         transform="translate(96.642487,32.141899)">
-        <rect
-           y="107.8581"
-           x="319.35751"
-           height="16"
-           width="16"
-           id="rect3997"
-           style="color:#000000;fill:#ff07f5;fill-opacity:0;fill-rule:evenodd;stroke-width:0.9868108" />
-        <g
-           id="g7224"
-           transform="translate(-0.0655561,0.8269009)">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4011"
-             d="m 334.5089,115.0312 -14.1716,0"
-             style="fill:none;stroke:#000000;stroke-width:1.39999998" />
-        </g>
-      </g>
-      <g
-         style="display:inline;enable-background:new"
-         id="no-marker-4"
-         inkscape:label="#markers"
-         transform="matrix(1.5,0,0,1.5,-63.03627,-61.787151)">
-        <rect
-           y="107.8581"
-           x="319.35751"
-           height="16"
-           width="16"
-           id="rect3997-3"
-           style="color:#000000;fill:#ff07f5;fill-opacity:0;fill-rule:evenodd;stroke-width:0.9868108" />
-        <g
-           id="g7224-4"
-           transform="translate(-0.0655561,0.8269009)">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4011-0"
-             d="m 334.5089,115.0312 -14.1716,0"
-             style="fill:none;stroke:#000000;stroke-width:1.39999998" />
-        </g>
-      </g>
-      <g
-         style="display:inline;enable-background:new"
-         id="no-marker-4-6"
-         inkscape:label="#markers"
-         transform="matrix(2,0,0,2,-222.71503,-163.7162)">
-        <rect
-           y="107.8581"
-           x="319.35751"
-           height="16"
-           width="16"
-           id="rect3997-3-9"
-           style="color:#000000;fill:#ff07f5;fill-opacity:0;fill-rule:evenodd;stroke-width:0.9868108" />
-        <g
-           id="g7224-4-2"
-           transform="translate(-0.0655561,0.8269009)">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4011-0-3"
-             d="m 334.5089,115.0312 -14.1716,0"
-             style="fill:none;stroke:#000000;stroke-width:1.39999998" />
-        </g>
-      </g>
+      <path
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 421,119 13,-13"
+         id="path4265"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.33333254;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 419.33314,152.66659 8.66666,-8.66667"
+         id="path4265-5"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2.66666508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="M 422.66667,77.333304 440,59.999982"
+         id="path4265-0"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        inkscape:groupmode="layer"
